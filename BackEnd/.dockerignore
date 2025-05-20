@@ -1,4 +1,0 @@
-.env.example
-*.md
-Dockerfile
-Dockerfile.test
